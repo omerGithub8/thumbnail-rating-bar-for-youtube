@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/elliotwaite/thumbnail-rating-bar-for-youtube/master/extension/icons/icon128.png" />
 
 # Thumbnail Rating Bar for YouTube&trade;
-ni
+nice
 </div>
 
 This extension adds a likes/dislikes rating bar to the bottom of every YouTube video thumbnail, so you can find higher quality content and avoid getting clickbaited.
